@@ -1,4 +1,5 @@
 // 13181 - Sleeping in hostels
+// TODO: It can be solved without having to iterate twice over the bed array.
 #include <cstdio>
 
 using namespace std;
