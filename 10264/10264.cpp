@@ -1,6 +1,5 @@
 // 10264 - The Most Potent Corner
 #include <cstdio>
-#include <cstring>
 #include <array>
 #include <cmath>
 
